@@ -16,7 +16,7 @@ function Grid2() {
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-4 col-sm-12">
-                        <div class="grid-item1" style={{ backgroundColor: '#81B622' }}>
+                        <div class="grid-item1" style={{ backgroundColor: 'rgb(48,68,155)' }}>
                             <h2>We currently have a project called: "DIE GROOT"</h2>
                             <h5>Where we provide a basket of services to community from where we recently purchased 5 twelve-meter container boxes that would be used for:</h5>
                             <ul>

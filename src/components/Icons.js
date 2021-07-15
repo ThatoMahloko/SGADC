@@ -8,7 +8,7 @@ function Icons() {
 
         <div className="container  cards" id="programms" >
             <div class="row ml-5">
-                <div class="col-lg-4 col-md-4 col-sm-12 mt-2 card" style={{ "width": "300px", "background-color": "#FF8300", "height": "280px" }}>
+                <div class="col-lg-4 col-md-4 col-sm-12 mt-2 card" style={{ "width": "300px", "background-color": "#ee1860", "height": "280px" }}>
                     <div class="card-body">
                         <h5 style={{ "text-align": "center" }}>Community Development</h5>
                         <ul>
@@ -18,7 +18,7 @@ function Icons() {
                         </ul>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-4 col-sm-12 mt-2 card" style={{ "width": "300px", "background-color": "#FF8300", "height": "280px" }}>
+                <div class="col-lg-4 col-md-4 col-sm-12 mt-2 card" style={{ "width": "300px", "background-color": "#ee1860", "height": "280px" }}>
                     <div class="card-body">
                         <h5 style={{ "text-align": "center" }}>Legal Advice and Development</h5>
                         <ul>
@@ -28,7 +28,7 @@ function Icons() {
                 </div>
 
 
-                <div class="col-lg-4 col-md-4 col-sm-12 mt-2 card" style={{ "width": "300px", "background-color": "#FF8300", "height": "280px" }}>
+                <div class="col-lg-4 col-md-4 col-sm-12 mt-2 card" style={{ "width": "300px", "background-color": "#ee1860", "height": "280px" }}>
                     <div class="card-body">
                         <h5 style={{ "text-align": "center" }}>Human Rights Education</h5>
                         <h6 style={{ "text-align": "center" }}>A tool used to push back eradicate the frontiers of poverty and iliteracy on issues realting to human rights through:</h6>
@@ -39,7 +39,7 @@ function Icons() {
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-4 col-sm-12 mt-2 card" style={{ "width": "300px", "background-color": "#FF8300", "height": "280px" }}>
+                <div class="col-lg-4 col-md-4 col-sm-12 mt-2 card" style={{ "width": "300px", "background-color": "#ee1860", "height": "280px" }}>
                     <div class="card-body">
                         <h5 style={{ "text-align": "center" }}>Heritage</h5>
                         <h6 style={{ "color": "white", "text-align": "center" }}>Discover and Preserve our culture through:</h6>
@@ -49,7 +49,7 @@ function Icons() {
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-4 col-sm-12 mt-2 card" style={{ "width": "300px", "background-color": "#FF8300", "height": "300px" }}>
+                <div class="col-lg-4 col-md-4 col-sm-12 mt-2 card" style={{ "width": "300px", "background-color": "#ee1860", "height": "300px" }}>
                     <div style={{}} class="card-body">
                         <h5 style={{ "text-align": "center" }}>Enviroomental Care & Agriculture</h5>
                         <h6 style={{ "text-align": "center" }}>To educate communities to take better care of environment through:</h6>
@@ -61,7 +61,7 @@ function Icons() {
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-4 col-sm-12 mt-2 card" style={{ "width": "300px", "background-color": "#FF8300", "height": "280px" }}>
+                <div class="col-lg-4 col-md-4 col-sm-12 mt-2 card" style={{ "width": "300px", "background-color": "#ee1860", "height": "280px" }}>
                     <div class="card-body">
                         <h5 style={{ "text-align": "center" }}>Community Development</h5>
                         <ul>

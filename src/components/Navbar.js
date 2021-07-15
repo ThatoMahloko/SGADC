@@ -1,33 +1,35 @@
 import React from 'react'
 import '../App.css'
 import { GiCloudyFork } from "react-icons/gi";
-
 function Navbar() {
     return (
-        <div>
-            <nav id="navigation" class="navbar navbar-expand-lg navbar-light ">
-                <GiCloudyFork className="myIcon" style={{ "color": "white", "width": "50px", "height": "50px" }} />
-                <div class="container-fluid">
-                    <a id="navi" class="navbar-brand">S.G.A.D</a>
-                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-                        <span class="navbar-toggler-icon"></span>
-                    </button>
-                    <div class="collapse navbar-collapse justify-content-center" id="navbarNavDropdown ">
-                        <ul class="navbar-nav d-flex justify-content-end">
-                            <li class="nav-item">
-                                    <a id= "features" class="nav-link" href="#about">About</a>
-                            </li>
-                            <li class="nav-item">                             
-                                <a id="pricing" class="nav-link" href="#programms">Programs</a>                                
-                            </li>
-                            <li class="nav-item">
-                                <a id="features" class="nav-link" href="#contact">Contact</a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </nav>
-        </div>
+
+        <nav class="navbar navbar-expand-lg navbar-light" style={{ "background-color": "rgb(238,24,96)" }}>
+            
+            {/* <img src="/images/pic12.jpg" id="myImageLogo"/> */}
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <a class="navbar-brand" style={{ "font-weight": "bold" }}>SGADC</a>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent" style={{ "float": "right" }}>
+                
+                <ul class="navbar-nav mr-auto" style={{ "float": "right" }}>
+                    <li class="nav-item active">
+                        <a class="nav-link" href="#" style={{ "color": "white" }}>Home </a>
+                    </li>
+                </ul>
+                <li class="nav-item" style={{ "float": "right" }}>
+                    <a class="nav-link" href="#" style={{ "color": "white" }}>About us</a>
+                </li>
+                <li class="nav-item" style={{ "float": "right" }}>
+                    <a class="nav-link" href="#" style={{ "color": "white" }}>Programms</a>
+                </li>
+
+                <li class="nav-item" style={{ "float": "right" }}>
+                    <a class="nav-link" href="#" style={{ "color": "white" }}>Contact us</a>
+                </li>                
+            </div>
+        </nav>
     )
 }
 

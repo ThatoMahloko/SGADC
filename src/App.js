@@ -1,6 +1,5 @@
 import './App.css';
 import Navbar from './components/Navbar';
-import Grid from './components/Grid'
 import Grid2 from './components/Grid2';
 import Icons from './components/Icons'
 import Jumbotron from './components/Jumbotron'
